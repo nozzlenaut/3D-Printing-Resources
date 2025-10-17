@@ -24,6 +24,7 @@ Title: Manuals, Guides, and where to Buy
 - [TFT35 SPI](https://github.com/bigtreetech/docs/blob/master/docs/TFT35%20SPI.md) - [Amazon](https://amzn.to/49d7yG4)
 - [TFT35](https://github.com/bigtreetech/docs/blob/master/docs/TFT35.md)
 - [TFT43-DIP](https://github.com/bigtreetech/docs/blob/master/docs/TFT43-DIP.md)
+- [TFT50](https://github.com/bigtreetech/BIGTREETECH-TouchScreenHardware/tree/master/BTT%20Pi%20TFT50%20V2.0%20Github) - [Amazon](https://amzn.to/43jhuxL)
 
 #### Extruders
 - Annex-Engineering - Sherpa [Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)/[Micro](https://github.com/Annex-Engineering/Sherpa_Micro-Extruder)
@@ -79,7 +80,7 @@ Title: Manuals, Guides, and where to Buy
 - [M4P](https://github.com/bigtreetech/docs/blob/master/docs/M4P.md)
     - [Voron 0](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/Firmware/bigtreetech-manta-m4p.cfg)
 - [M5P](https://github.com/bigtreetech/docs/blob/master/docs/M5P.md)
-- [M8P](https://github.com/bigtreetech/docs/blob/master/docs/M8P.md)
+- [M8P](https://github.com/bigtreetech/docs/blob/master/docs/M8P.md) - [Amazon](https://amzn.to/42NgtOp)
     - [Voron Trident](https://github.com/VoronDesign/Voron-Trident/blob/main/Firmware/M8P/Trident_M8P_config.cfg). [Voron 2.4](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/firmware/klipper_configurations/M8P), [Salad Fork](https://github.com/PrintersForAnts/Salad_Fork/blob/master/config/printer.cfg-m8p_with_ebb36_sample.cfg)
 - [Mellow Fly Gemini V3](https://github.com/Mellow-3D/Fly-Gemini-V3)
     - [Voron 0](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/Firmware/mellow-fly-gemini-v3.cfg)
@@ -91,11 +92,11 @@ Title: Manuals, Guides, and where to Buy
 - [Octopus MAZX EZ](https://github.com/bigtreetech/docs/blob/master/docs/Octopus%20MAX%20EZ.md)
 - [Octopus](https://github.com/bigtreetech/docs/blob/master/docs/Octopus.md)
     - [Voron Trident](https://github.com/VoronDesign/Voron-Trident/blob/main/Firmware/Octopus/Trident_Octopus_Config.cfg), [Voron 2.4](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/firmware/klipper_configurations/Octopus), [Micron](https://github.com/PrintersForAnts/Micron/blob/main/Firmware/Config/Octopus-V1-Printer.cfg)
-- [SKR V1.3/V1.4](https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3)
+- [SKR V1.3/V1.4](https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3) - [Amazon](https://amzn.to/3JfU5Xi)
     - Voron 2.4 [1.3](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/firmware/klipper_configurations/SKR_1.3)/[1.4](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/firmware/klipper_configurations/SKR_1.4), [Voron Legacy SKR V1.3](https://github.com/VoronDesign/Voron-Legacy/blob/main/Firmware/skr_v1.3_config.cfg)
 - [SKR 3](https://github.com/bigtreetech/docs/blob/master/docs/SKR%203.md)
     - [Voron 0](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/Firmware/bigtreetech-skr-3-ez.cfg), [Rook](https://github.com/rolohaun/Rook/blob/main/Klipper%20Config/SKR%203/printer.cfg)
-- [SKR Mini E3](https://github.com/bigtreetech/docs/blob/master/docs/SKR%20MINI%20E3.md) - Check board cersion v2/v3
+- [SKR Mini E3](https://github.com/bigtreetech/docs/blob/master/docs/SKR%20MINI%20E3.md), [Amazon](https://amzn.to/4op2fLO)- Check board cersion v2/v3
     - [Voron 0](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/Firmware/bigtreetech-skr-mini-e3-v2.0.cfg), [Voron Switchwire](https://github.com/VoronDesign/Voron-Switchwire/blob/master/Firmware/skr_mini_e3_v2_config.cfg), [Rook](https://github.com/rolohaun/Rook/tree/main/Klipper%20Config/SKR%20Mini%20E3%20v2)
 
 #### Probes
@@ -130,7 +131,7 @@ Title: Manuals, Guides, and where to Buy
 - [Pinout Diagram](https://www.raspberrypi.com/documentation/computers/raspberry-pi.html) - GPIO can be used with Klipper
 - Where to buy - Stock can be hard to find, check [rpilocator](https://rpilocator.com/), [Microcenter](https://www.microcenter.com/search/search_results.aspx?Ntk=all&sortby=match&N=4294910344+4294819333+4294818256&myStore=true), or [Amazon](https://amzn.to/4cujmH0)
 - Alternatives
-    - [BTT-Pi](https://github.com/bigtreetech/BTT-Pi)
+    - [BTT-Pi](https://github.com/bigtreetech/BTT-Pi) - [Amazon](https://amzn.to/47erpG7)
     - [Orange Pi](https://amzn.to/3TK4X0S) - many variants to choose from
 - Helpful Programs
     - [Balena Etcher](https://etcher.balena.io/) - flash OS images to USB/SD, alternative to Raspi Imager

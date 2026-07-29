@@ -1,5 +1,25 @@
-This is a page I setup for myself when I was working on building my printer. I needed a way to organize the possible variations and configurations that I was considering. I wanted to post it for everyone to be able to use, and add to it to include as many variations as possible. I tried my best to link as many of the resources as possible directly to manufacturer websites or githubs in the hopes that they stay the most up to date. If you find an issue with something please let me know so I can address it as soon as possible. 
+# 3D Printing Resources
 
-If you find this resource to be helpful, please considering bookmarking and shopping with this [Amazon](https://amzn.to/3TLXj6j) affiliate link. It costs you nothing, and helps to support additions to this page. You can also become a sponsor of this page. I intend to create a page recognizing sponsors in the future. I do this on my own time, to help others where I was once.
+A curated collection of 3D-printing documentation, setup guides, tuning references, hardware options, modifications, and sourcing links.
 
-If you have any ideas on what types of material should be linked here, please let [me know](https://dtjager.github.io/3D-Printing-Resources/ideas/)!
+I originally assembled this list while planning and building my own printer. It grew into a public reference for anyone comparing parts, configuring Klipper, troubleshooting print quality, or looking for reliable documentation. Whenever possible, links point to manufacturers, official documentation, or the original GitHub repositories so the information is easier to verify and more likely to stay current.
+
+## Browse the collection
+
+- [Manuals, hardware, and software resources](docs/Resources.md)
+- [How-to guides](docs/How%20To.md)
+- [Printer tuning and troubleshooting](docs/Tuning.md)
+- [Parts, tools, and suppliers](docs/Sourcing.md)
+- [Printer modifications](docs/mods.md)
+- [How to ask for help](docs/socials.md)
+- [Suggest a resource or correction](docs/ideas.md)
+
+## Contributions and corrections
+
+Found a broken link, outdated note, missing project, or useful guide? Please use the [suggestions page](docs/ideas.md) or open an issue in this repository. Clear corrections and links to original sources are especially helpful.
+
+## Support this project
+
+This collection is maintained in my spare time. You can support future updates by bookmarking the project, becoming a sponsor, or shopping through this [Amazon affiliate link](https://amzn.to/3TLXj6j). Using the affiliate link does not change your price, but qualifying purchases may earn a small commission for the project.
+
+Thanks for helping make 3D-printing information a little less scattered.

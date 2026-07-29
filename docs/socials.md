@@ -1,8 +1,25 @@
 ---
-Title: Asking for Help
+title: Asking for Help
 ---
-For now, I have not included (or tried not to) any links to discord, twitter or facebook groups etc. I have tried to keep links to resources to github, manufacturer documentation, or webpages in the hopes that they will be mostly static or at least updated with the most recent information.
 
-If you are having trouble and genuinely cannot resolve it, most of those places have people with an incredible amount of experience who know what they are doing. There is a discord, twitter or facebook group for everything. Find one and ask. If you present your problem, and what you have attempted so far to remedy it, you will generally receive help without issue.
+# How to Ask for Useful 3D-Printing Help
 
-![Asking for Help](https://raw.githubusercontent.com/dtjager/3D-Printing-Resources/main/docs/images/z8rtq0q252541.jpg)
+This collection primarily links to official documentation, manufacturer pages, and original GitHub repositories. Those sources are generally easier to verify and more likely to stay current than individual social posts.
+
+Community spaces are still extremely valuable when documentation does not solve the problem. There is a Discord server, forum, subreddit, Facebook group, or other community for nearly every printer and firmware project.
+
+## Include These Details
+
+When asking for help, provide:
+
+- Your printer model and major modifications
+- Firmware and interface, such as Klipper with Mainsail or Fluidd
+- The exact problem and when it started
+- Clear photos or a short video when motion or print quality is involved
+- Relevant configuration files or error messages
+- What you already tested or changed
+- Whether the printer worked correctly before
+
+Avoid posting only “it does not work.” That gives helpers approximately the same diagnostic power as shaking a printer and listening for loose screws.
+
+![A visual guide to asking for technical help](images/z8rtq0q252541.jpg)

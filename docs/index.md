@@ -1,11 +1,32 @@
 ---
-Title: Home
+title: Home
 ---
-# Welcome
-This is a page I setup for myself when I was working on building my printer. I needed a way to organize the possible variations and configurations that I was considering. I wanted to post it for everyone to be able to use, and add to it to include as many variations as possible. I tried my best to link as many of the resources as possible directly to manufacturer websites or githubs in the hopes that they stay the most up to date. If you find an issue with something please let me know so I can address it as soon as possible. 
 
-If you find this resource to be helpful, please considering bookmarking and shopping with this [Amazon](https://amzn.to/3TLXj6j) affiliate link. It costs you nothing, and helps to support additions to this page. You can also become a sponsor of this page. I intend to create a page recognizing sponsors in the future. I do this on my own time, to help others where I was once.
+# 3D Printing Resources
 
-If you have any ideas on what types of material should be linked here, please let [me know](https://dtjager.github.io/3D-Printing-Resources/ideas/)!
+This collection started as my personal reference while I was planning and building a printer. I needed one place to compare hardware, configurations, modifications, software, and setup guides without digging through dozens of bookmarks.
 
-<iframe src="https://github.com/sponsors/dtjager/button" title="Sponsor dtjager" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+I made it public so other builders can use it too. Whenever possible, links point directly to manufacturers, official documentation, or the original GitHub repositories. That makes the information easier to verify and more likely to remain current.
+
+## Start here
+
+| What you need | Page |
+|---|---|
+| Hardware manuals, firmware, software, and reference material | [Resources](Resources.md) |
+| Setup and integration walkthroughs | [How-to guides](How%20To.md) |
+| Calibration and print-quality troubleshooting | [Printer tuning](Tuning.md) |
+| Retailers, tools, and maintenance supplies | [Sourcing](Sourcing.md) |
+| Community printer upgrades and modifications | [Printer modifications](mods.md) |
+| Advice for getting useful troubleshooting help | [Asking for help](socials.md) |
+
+## Corrections and suggestions
+
+Found a broken link, outdated note, or useful resource that is missing? Please [submit a suggestion](ideas.md). Links to original documentation are especially helpful.
+
+## Support the project
+
+This site is maintained in my spare time. You can help support future additions by bookmarking the site, becoming a sponsor, or shopping through this [Amazon affiliate link](https://amzn.to/3TLXj6j).
+
+> **Affiliate disclosure:** Using the Amazon link does not change your price, but qualifying purchases may earn a small commission for the project.
+
+<iframe src="https://github.com/sponsors/nozzlenaut/button" title="Sponsor nozzlenaut" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
